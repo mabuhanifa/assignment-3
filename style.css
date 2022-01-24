@@ -43,3 +43,7 @@ li::before {
 .bi-star-fill {
     color: orange;
 }
+
+.c-border {
+    border-left: 10px solid rgb(79, 79, 255) !important;
+}
