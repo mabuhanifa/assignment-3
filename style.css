@@ -1,0 +1,45 @@
+.p-text {
+    margin: 20px auto;
+    width: 80%;
+    display: block;
+}
+
+ul {
+    margin: 0%;
+    list-style-type: none;
+    line-height: 30px;
+    font-family: "Poppins", sans-serif;
+}
+
+li::before {
+    content: "\f058    ";
+    font-family: FontAwesome;
+    color: rgb(152, 152, 245);
+}
+
+.hot-btn {
+    position: relative;
+    bottom: 20px;
+}
+
+.hot {
+    text-decoration: none;
+    position: absolute;
+    bottom: 95%;
+    left: 75%;
+}
+
+.c-right {
+    position: relative;
+}
+
+.c-content {
+    position: absolute;
+    margin: auto;
+    top: 50%;
+    left: 50%;
+}
+
+.bi-star-fill {
+    color: orange;
+}
