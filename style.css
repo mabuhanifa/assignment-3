@@ -1,7 +1,5 @@
 .p-text {
     margin: 20px auto;
-    width: 80%;
-    display: block;
 }
 
 ul {
@@ -31,6 +29,8 @@ li::before {
 
 .c-right {
     position: relative;
+    min-height: 200px;
+    min-width: 200px;
 }
 
 .c-content {
